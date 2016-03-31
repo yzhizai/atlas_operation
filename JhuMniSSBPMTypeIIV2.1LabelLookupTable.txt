@@ -1,0 +1,189 @@
+1	SFG_L	SUPERIOR FRONTAL GYRUS (posterior segment) left
+2	SFG_R	SUPERIOR FRONTAL GYRUS (posterior segment) right
+3	SFG_PFC_L	Superior frontal gyrus (prefrontal cortex) left
+4	SFG_PFC_R	Superior frontal gyrus (prefrontal cortex) right
+5	SFG_pole_L	superior frontal gyrus (frontal pole) left
+6	SFG_pole_R	superior frontal gyrus (frontal pole) right
+7	MFG_L	MIDDLE FRONTAL GYRUS (posterior segment) left
+8	MFG_R	MIDDLE FRONTAL GYRUS  (posterior segment) right
+9	MFG_DPFC_L	Middle frontal gyrus (dorsal prefrontal cortex) left
+10	MFG_DPFC_R	Middle frontal gyrus (dorsal prefrontal cortex) right
+11	IFG_opercularis_L	inferior frontal gyrus pars opercularis left
+12	IFG_opercularis_R	inferior frontal gyrus pars opercularis right
+13	IFG_orbitalis_L	inferior frontal gyrus pars orbitralis left
+14	IFG_orbitalis_R	inferior frontal gyrus pars orbitralis right
+15	IFG_triangularis_L	inferior frontal gyrus pars triangularis left
+16	IFG_triangularis_R	inferior frontal gyrus pars triangularis right
+17	LFOG_L	LATERAL FRONTO-ORBITAL GYRUS left
+18	LFOG_R	LATERAL FRONTO-ORBITAL GYRUS right
+19	MFOG_L	MIDDLE FRONTO-ORBITAL GYRUS left
+20	MFOG_R	MIDDLE FRONTO-ORBITAL GYRUS right
+21	RG_L	GYRUS RECTUS left
+22	RG_R	GYRUS RECTUS right
+23	PoCG_L	POSTCENTRAL GYRUS left
+24	PoCG_R	POSTCENTRAL GYRUS right
+25	PrCG_L	PRECENTRAL GYRUS left
+26	PrCG_R	PRECENTRAL GYRUS right
+27	SPG_L	SUPERIOR PARIETAL GYRUS left
+28	SPG_R	SUPERIOR PARIETAL GYRUS right
+29	SMG_L	SUPRAMARGINAL GYRUS left
+30	SMG_R	SUPRAMARGINAL GYRUS right
+31	AG_L	ANGULAR GYRUS left
+32	AG_R	ANGULAR GYRUS right
+33	PrCu_L	PRE-CUNEUS left
+34	PrCu_R	PRE-CUNEUS right
+35	STG_L	SUPERIOR TEMPORAL GYRUS left
+36	STG_R	SUPERIOR TEMPORAL GYRUS right
+37	STG_L_pole	Pole of SUPERIOR TEMPORAL GYRUS left
+38	STG_R_pole	Pole of SUPERIOR TEMPORAL GYRUS right 
+39	MTG_L	MIDDLE TEMPORAL GYRUS left
+40	MTG_R	MIDDLE TEMPORAL GYRUS right
+41	MTG_L_pole	Pole of MIDDLE TEMPORAL GYRUS left
+42	MTG_R_pole	Pole of MIDDLE TEMPORAL GYRUS right
+43	ITG_L	INFERIOR TEMPORAL GYRUS left
+44	ITG_R	INFERIOR TEMPORAL GYRUS right
+45	PHG_L	PARAHIPPOCAMPAL GYRUS left
+46	PHG_R	PARAHIPPOCAMPAL GYRUS right
+47	ENT_L	ENTORHINAL AREA left
+48	ENT_R	ENTORHINAL AREA right
+49	FuG_L	FUSIFORM GYRUS left
+50	FuG_R	FUSIFORM GYRUS right
+51	SOG_L	SUPERIOR OCCIPITAL GYRUS left
+52	SOG_R	SUPERIOR OCCIPITAL GYRUS right
+53	MOG_L	MIDDLE OCCIPITAL GYRUS left
+54	MOG_R	MIDDLE OCCIPITAL GYRUS right
+55	IOG_L	INFERIOR OCCIPITAL GYRUS left
+56	IOG_R	INFERIOR OCCIPITAL GYRUS right
+57	Cu_L	CUNEUS left
+58	Cu_R	CUNEUS right
+59	LG_L	LINGUAL GYRUS left
+60	LG_R	LINGUAL GYRUS right
+61	rostral_ACC_L	rostral anterior cingulate gyrus left
+62	rostral_ACC_R	rostral anterior cingulate gyrus right
+63	subcallosal_ACC_L	subcallosal anterior cingulate gyrus left
+64	subcallosal_ACC_R	subcallosal anterior cingulate gyrus right
+65	subgenual_ACC_L	subgenual anterior cingulate gyrus left
+66	subgenual_ACC_R	subgenual anterior cingulate gyrus right
+67	dorsal_ACC_L	dorsal anterior cingulate gyrus left
+68	dorsal_ACC_R	dorsal anterior cingulate gyrus right
+69	PCC_L	posterior cingulate gyrus left
+70	PCC_R	posterior cingulate gyrus right
+71	Ins_L	INSULAR left
+72	Ins_R	INSULAR right
+73	Amyg_L	AMYGDALA left
+74	Amyg_R	AMYGDALA right
+75	Hippo_L	HIPPOCAMPUS left
+76	Hippo_R	HIPPOCAMPUS right
+77	Caud_L	CAUDATE NUCLEUS left
+78	Caud_R	CAUDATE NUCLEUS right
+79	Put_L	PUTAMEN left
+80	Put_R	PUTAMEN right
+81	GP_L	GLOBUS PALLIDUS left
+82	GP_R	GLOBUS PALLIDUS right
+83	Thal_L	THALAMUS left
+84	Thal_R	THALAMUS right
+85	Hypothalamus_L	Hypothalamus left
+86	Hypothalamus_R	Hypothalamus right
+87	Mynert_L	Nucleus innominata of Mynert left
+88	Mynert_R	Nucleus innominata of Mynert right
+89	NucAccumbens_L	Nucleus accumbens left
+90	NucAccumbens_R	Nucleus accumbens right
+91	RedNc_L	Red Nucleus left
+92	RedNc_R	Red Nucleus right
+93	Snigra_L	Substancia Nigra left
+94	Snigra_R	Substancia Nigra right
+95	cerebellum_R	CEREBELLUM right
+96	cerebellum_L	CEREBELLUM left
+97	CP_L	Cerebral peduncle left
+98	CP_R	Cerebral peduncle right
+99	Midbrain_L	MIDBRAIN left
+100	Midbrain_R	MIDBRAIN right
+101	CST_L	Corticospinal tract left
+102	CST_R	Corticospinal tract right
+103	SCP_L	Superior cerebellar peduncle left
+104	SCP_R	Superior cerebellar peduncle right
+105	MCP_L	Middle cerebellar peduncle left
+106	MCP_R	Middle cerebellar peduncle right
+107	PCT_L	Pontine crossing tract (a part of MCP) left
+108	PCT_R	Pontine crossing tract (a part of MCP) right
+109	ICP_L	Inferior cerebellar peduncle left
+110	ICP_R	Inferior cerebellar peduncle right
+111	ML_L	Medial lemniscus left
+112	ML_R	Medial lemniscus right
+113	Pons_L	PONS left
+114	Pons_R	PONS right
+115	Medulla_L	MEDULLA left
+116	Medulla_R	MEDULLA right
+117	ACR_L	Anterior corona radiata left
+118	ACR_R	Anterior corona radiata right
+119	SCR_L	Superior corona radiata left
+120	SCR_R	Superior corona radiata right
+121	PCR_L	Posterior corona radiata left
+122	PCR_R	Posterior corona radiata right
+123	GCC_L	Genu of corpus callosum left
+124	GCC_R	Genu of corpus callosum right
+125	BCC_L	Body of corpus callosum left
+126	BCC_R	Body of corpus callosum right
+127	SCC_L	Splenium of corpus callosum left
+128	SCC_R	Splenium of corpus callosum right
+129	TAP_L	Tapatum left
+130	TAP_R	Tapatum right
+131	ALIC_L	Anterior limb of internal capsule left
+132	ALIC_R	Anterior limb of internal capsule right
+133	PLIC_L	Posterior limb of internal capsule left
+134	PLIC_R	Posterior limb of internal capsule right
+135	RLIC_L	Retrolenticular part of internal capsule left
+136	RLIC_R	Retrolenticular part of internal capsule right
+137	EC_L	External capsule left
+138	EC_R	External capsule right
+139	CGC_L	Cingulum (cingulate gyrus) left
+140	CGC_R	Cingulum (cingulate gyrus) right
+141	CGH_L	Cingulum (hippocampus) left
+142	CGH_R	Cingulum (hippocampus) right
+143	Fx/ST_L	Fornix (cres) / Stria terminalis (can not be resolved with current resolution) left
+144	Fx/ST_R	Fornix (cres) / Stria terminalis (can not be resolved with current resolution) right
+145	Fx_L	Fornix (column and body of fornix) left
+146	Fx_R	Fornix (column and body of fornix) right
+147	IFO_L	Inferior fronto-occipital fasciculus left
+148	IFO_R	Inferior fronto-occipital fasciculus right
+149	PTR_L	Posterior thalamic radiation (include optic radiation) left
+150	PTR_R	Posterior thalamic radiation (include optic radiation) right
+151	SS_L	Sagittal stratum (include inferior longitidinal fasciculus and inferior fronto-occipital fasciculus) left
+152	SS_R	Sagittal stratum (include inferior longitidinal fasciculus and inferior fronto-occipital fasciculus) right
+153	SFO_L	Superior fronto-occipital fasciculus (could be a part of anterior internal capsule) left
+154	SFO_R	Superior fronto-occipital fasciculus (could be a part of anterior internal capsule) right
+155	SLF_L	Superior longitudinal fasciculus left
+156	SLF_R	Superior longitudinal fasciculus right
+157	UNC_L	Uncinate fasciculus left
+158	UNC_R	Uncinate fasciculus right
+159	AnsaLenticularis_L	Ansa lenticularis left
+160	AnsaLenticularis_R	Ansa lenticularis right
+161	AnteriorCom_L	Anterior commissure left
+162	AnteriorCom_R	Anterior commissure right
+163	LenticularFasc_L	Lenticular fasciclus left
+164	LenticularFasc_R	Lenticular fasciclus right
+165	OlfactoryRadiation_L	olfactory radiation  left
+166	OlfactoryRadiation_R	olfactory radiation   right
+167	Mammillary_L	Mammillary body left
+168	Mammillary_R	Mammillary body right
+169	OpticTract_L	Optic tract left
+170	OpticTract_R	Optic tract right
+171	LV_frontal_L	lateral ventricle_frontal left
+172	LV_body_L	lateral ventricle_body left
+173	LV_atrium_L	lateral ventricle_atrium left
+174	LV_occipital_L	lateral ventricle_occipital left
+175	LV_temporal_L	lateral ventricle_temporal left
+176	LV_frontal_R	lateral ventricle_frontal right
+177	LV_body_R	lateral ventricle_body right
+178	LV_atrium_R	lateral ventricle_atrium right
+179	LV_occipital_R	lateral ventricle_occipital right
+180	LV_temporal_R	lateral ventricle_temporal right
+181	III_and_IV_ventricle	III and IV ventricle
+182	PIns_L	posterior insula left
+183	PIns_R	posterior insula right
+184	PSTG_L	posterior superior temporal gyrus left
+185	PSTG_R	posterior superior temporal gyrus right
+186	PSMG_L	posterior middle temporal gyrus left
+187	PSMG_R	posterior middle temporal gyrus right
+188	PSIG_L	posterior inferior temporal gyrus left
+189	PSIG_R	posterior inferior temporal gyrus right

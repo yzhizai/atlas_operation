@@ -6,7 +6,7 @@ Y = spm_read_vols(V);
 lut  = readtable(LookUpTable, 'Delimiter', '\t', 'ReadVariableNames', false);
 pFile = readtable(pickFile, 'Delimiter', '\t');
 
-[path, ~, ~] = fileparts(pickFile);
+[path, ~, ~] = fileparts(AtlasFile);
 
 for aa = 1:size(pFile, 1)
     Y_temp = zeros(size(Y));

@@ -1,0 +1,13 @@
+ROI	Value	LogOp
+1	98	and
+2	26	and
+3	120	and
+4	134	and
+5	95	not
+6	54	not
+7	132	not
+8	136	not
+9	108	not
+10	110	not
+11	112	not
+12	104	not
